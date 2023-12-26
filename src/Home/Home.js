@@ -192,7 +192,7 @@ function Home() {
                 </p>
                 <div className="btn_hireme">
                   <a
-                    href="/assets/img/My resume1.pdf"
+                    href="/assets/img/Myresume1.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
