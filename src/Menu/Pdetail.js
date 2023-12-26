@@ -190,7 +190,7 @@ function Pdetail({ isActive, setActive }) {
         </div>
         <div className="button_resume">
           <a className="btnsame"
-            href="/assets/img/My resume.pdf"
+            href="/assets/img/My resume1.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
